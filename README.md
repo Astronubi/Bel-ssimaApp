@@ -42,12 +42,6 @@ app/
 - Layout organizado com LazyColumn
 
 ---
-
-# Demonstração
-
-*(Aqui você pode adicionar prints do app depois)*
-
----
   
 GitHub: https://github.com/Astronubi
 
